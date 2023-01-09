@@ -5,3 +5,4 @@
  I also changed colors, so it is easier to see things. I used coolor website to make it easier to read. 
  I added alt attributes for the pictures.
 
+https://rstat8777.github.io/code-refactor2/  
